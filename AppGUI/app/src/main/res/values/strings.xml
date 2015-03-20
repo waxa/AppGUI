@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppGUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">AppGUI</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="enter">¡Entrar!</string>
+    <string name="register">Registrarse</string>
+    <string name="success">Éxito.</string>
+    <string name="fail">Fracaso.</string>
+    <string name="empty">Rellene los campos para poder ingresar.</string>
+    <string name="remember">Recodar login</string>
+    <string name="responder">Responder</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_llave">AppGUI</string>
+
+</resources>
